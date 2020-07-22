@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PlayerFour
+comment0.text=\r\n\ PlayerFour\ class\ includes\ variables\ specific\ to\ this\ bomberman,\ such\ as\r\n\ character\ image.\r\n\ \r\n\ @author\ Edmund,\ James,\ Anson,\ Gavin\r\n\ @version\ January\ 2020\r\n
+comment1.params=
+comment1.target=PlayerFour()
+comment1.text=\r\n\ Constructor\ for\ PlayerFour.\ \r\n\ Prepares\ animation\ images\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ PlayerOne\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ Size()
+comment3.text=\r\n\ Sizes\ chraracter\ to\ the\ acceptable\ size\r\n
+comment4.params=
+comment4.target=void\ control()
+comment4.text=\r\n\ Used\ to\ control\ player\ movement\ and\ bomb\ placement\r\n
+comment5.params=
+comment5.target=void\ updateLocation()
+numComments=6

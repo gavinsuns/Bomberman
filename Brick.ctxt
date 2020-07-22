@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Brick
+comment0.text=\r\n\ Destroyable\ brick\ class.\r\n\ \r\n\ @author\ Anson\ \r\n\ @version\ January\ 2020\r\n
+comment1.params=x\ y
+comment1.target=void\ death(int,\ int)
+comment1.text=\r\n\ Removes\ the\ brick\ at\ a\ specific\ location.\r\n\ \r\n\ @param\ x\ Integer\ x\ location\ of\ brick\ in\ 2d\ array\r\n\ @param\ y\ Integer\ y\ location\ of\ brick\ in\ 2d\ array\r\n
+numComments=2

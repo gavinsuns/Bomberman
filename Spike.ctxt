@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Spike
+comment0.text=\r\n\ Powerup\ Object\ allows\ the\ bomber\ to\ pierce\ through\ multiple\ blocks.\r\n\ \r\n\ @author\ Anson\ \r\n\ @version\ January\ 2020\r\n
+comment1.params=
+comment1.target=void\ pickMeUp()
+comment1.text=\r\n\ Enables\ bomber\ to\ pierce\ through\ blocks.\r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Speed
+comment0.text=\r\n\ Powerup\ Object\ that\ increases\ the\ movement\ speed\ of\ the\ player\r\n\ when\ picked\ up.\r\n\ \r\n\ @author\ Anson\ \r\n\ @version\ January\ 2020\r\n
+comment1.params=
+comment1.target=void\ pickMeUp()
+comment1.text=\r\n\ Increases\ the\ bombers\ speed.\r\n
+numComments=2

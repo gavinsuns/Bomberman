@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ A\ button\ class,\ used\ if\ mouse\ clicks\ need\ to\ be\ read\ from\ the\ user,\ \r\n\ \r\n\ @author\ James,\ Edmund\r\n\ @version\ January\ 2020\r\n
+comment1.params=p\ t
+comment1.target=Button(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

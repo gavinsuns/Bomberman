@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bomb
+comment0.text=\r\n\ Bombs\ are\ objects\ that\ Bombers\ put\ down.\ They\ are\ able\ to\ break\ bricks\ and\ \r\n\ kill\ Bombers,\ by\ creating\ Explosion\ objects\ in\ all\ four\ directions.\ The\ \r\n\ amount\ of\ explosions\ created,\ and\ whether\ they\ can\ break\ more\ than\ one\ brick\ \r\n\ is\ based\ on\ the\ stats\ of\ the\ Bomber\ who\ placed\ the\ bomb.\ Bombs\ cannot\ go\ \r\n\ through\ Rocks,\ and\ Bombers\ are\ not\ able\ to\ walk\ over\ Bombs.\r\n\ \r\n\ @author\ James\r\n\ @version\ January\ 2020\r\n
+comment1.params=xPos\ yPos\ radius\ spike\ bomber
+comment1.target=Bomb(int,\ int,\ int,\ boolean,\ Bomber)
+comment1.text=\r\n\ Constructor\ for\ the\ Bomb.\ Sets\ up\ instance\ variables\ from\ the\ parameters\r\n\ passed\ from\ the\ Bomber\ that\ placed\ the\ bomb.\r\n\ \r\n\ @param\ xPos\ The\ x\ position\ of\ the\ Bomb\ on\ the\ game\ array\r\n\ @param\ yPos\ The\ y\ position\ of\ the\ Bomb\ on\ the\ game\ array\r\n\ @param\ radius\ The\ amount\ of\ explosions\ created\ in\ each\ direction\r\n\ @param\ spike\ Whether\ or\ not\ the\ bomb\ is\ a\ spike\ bomb\r\n\ @param\ bomber\ The\ bomber\ that\ placed\ the\ bomb\ down\r\n
+comment2.params=
+comment2.target=void\ size()
+comment2.text=\r\n\ Sizes\ the\ bomb\ to\ the\ correct\ size\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ method\ -\ code\ to\ be\ ran\ every\ act\ of\ the\ program\r\n
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Powerup
+comment0.text=\r\n\ Superclass\ of\ powerup\ which\ defines\ powerups\ as\ needing\ a\ method\ \r\n\ for\ when\ a\ player\ picks\ up\ a\ powerup.\ This\ method\ will\ call\ a\ mutator\ in\ the\r\n\ bomber\ class.\r\n\ \r\n\ @author\ Anson\ \r\n\ @version\ January\ 2020\r\n
+comment1.params=
+comment1.target=void\ pickMeUp()
+numComments=2

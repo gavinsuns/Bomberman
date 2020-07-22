@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Explosion
+comment0.text=\r\n\ Explosions\ are\ objects\ that\ spawn\ from\ Bombs,\ and\ they\ kill\ Bombers\ and\ break\r\n\ Bricks\ when\ coming\ in\ contact\ with\ them.\ When\ a\ brick\ is\ broken\ by\ an\ \r\n\ Explosion,\ there\ is\ a\ chance\ that\ a\ Powerup\ will\ spawn.\ Explosions\ only\ \r\n\ stay\ on\ the\ screen\ for\ a\ short\ period\ of\ time.\r\n\ \r\n\ @author\ James\ \r\n\ @version\ January\ 2020\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ \r\n\ Act\ -\ do\ whatever\ the\ Explosion\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=xPos\ yPos
+comment2.target=Explosion(int,\ int)
+comment2.text=\r\n\ Constructor\ for\ the\ Explosion,\ setting\ up\ the\ instance\ variables\r\n\ \r\n\ @param\ xPos\ the\ x\ Position\ of\ the\ Explosion\ on\ the\ game\ array\r\n\ @param\ yPos\ the\ y\ Position\ of\ the\ Explosion\ on\ the\ game\ array\r\n
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\r\n\ Code\ that\ is\ run\ after\ the\ Explosion\ has\ been\ added\ to\ the\ world\r\n
+comment4.params=
+comment4.target=boolean\ hasBroken()
+comment4.text=\r\n\ Checks\ to\ see\ if\ the\ Explosion\ has\ broken\ a\ Brick\r\n\ \r\n\ @return\ boolean\ Whether\ or\ not\ the\ Explosion\ has\ broken\ a\ Brick\r\n
+comment5.params=
+comment5.target=void\ checkHit()
+comment5.text=\r\n\ Checks\ to\ see\ if\ the\ Explosion\ has\ hit\ a\ Bomber,\ and\ then\ removes\ a\ life\ from\ that\ bomber.\r\n
+numComments=6
